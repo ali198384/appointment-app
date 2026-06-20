@@ -12,6 +12,7 @@ The app is designed for managing doctors, specialties, patients, profiles, time 
 - Create appointments
 - Find appointments by tracking code
 - Manage patient profile
+- Dark & Light Mode support 🌙☀️
 - Offline-first local storage with sync support
 - Periodic background synchronization
 - Modular navigation with Compose
@@ -28,6 +29,7 @@ The app is designed for managing doctors, specialties, patients, profiles, time 
 - **Local Database:** Room
 - **Remote API:** Retrofit + OkHttp + Gson
 - **Background Sync:** WorkManager-based sync layer
+- **Theme:** Supports System Light and Dark Modes
 - **Build System:** Gradle Kotlin DSL
 
 ---
