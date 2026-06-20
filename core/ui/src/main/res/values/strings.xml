@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">appointment</string>
+    <string name="str_toolbar_title">اپلیکیشن نوبت دهی</string>
+    <string name="str_save">ذخیره</string>
+    <string name="str_cancel">انصراف</string>
+    <string name="str_edit_profile">ویرایش پروفایل</string>
+    <string name="str_name">نام و نام خانوادگی</string>
+    <string name="str_national_code">کد ملی</string>
+    <string name="str_phone_number">شماره موبایل</string>
+    <string name="str_age">سن</string>
+    <string name="str_gender">جنسیت</string>
+    <string name="str_profile">پروفایل</string>
+    <string name="str_get_appointment">دریافت نوبت</string>
+    <string name="str_fill_this_text_box">الزامی</string>
+    <string name="str_save_fail">خطا در ذخیره اطلاعات</string>
+    <string name="str_save_success">اطلاعات با موفقیت ذخیره شد.</string>
+    <string name="str_invalid_mobile_number">شماره همراه وارد شده صحیح نیست.</string>
+    <string name="str_select_from_gallery">انتخاب از گالری</string>
+    <string name="str_select_from_camera">گرفتن عکس</string>
+    <string name="str_choose_image">انتخاب عکس</string>
+    <string name="str_invalid">نامعتبر</string>
+    <string name="str_self">برای خودم</string>
+    <string name="str_other">برای شخص دیگر</string>
+    <string name="str_submit_appointment">ثبت نوبت</string>
+    <string name="return_to_back">بازگشت به صفحه قبل</string>
+    <string name="str_appointment_to">ثبت نوبت برای</string>
+    <string name="str_male">مرد</string>
+    <string name="str_female">زن</string>
+    <string name="str_patient_info_error">لطفا ابتدا اطلاعات بیمار را از طریق «برای شخص دیگر پر کنید.»</string>
+    <string name="str_not_select_time_error">لطفا ابتدا زمان نوبت را انتخاب نمایید.</string>
+    <string name="str_tracking_appointment">بازیابی نوبت</string>
+    <string name="str_delete_warning">آیا از حذف نوبت خود مطمئن هستید؟</string>
+    <string name="str_enter_tracking_code">وارد کردن کد پیگیری</string>
+    <string name="str_not_found_record">موردی پیدا نشد.</string>
+    <string name="str_patient_name">نام بیمار</string>
+    <string name="str_date_time">ساعت و تاریخ</string>
+    <string name="str_select_specialty">انتخاب تخصص</string>
+    <string name="str_specialty_search">جستجوی تخصص…</string>
+    <string name="str_select_doctor">انتخاب پزشک</string>
+    <string name="str_doctor_search">جستجوی پزشک…</string>
+    <string name="str_old_info">به علت عدم اتصال به سرور، اطلاعات قدیمی است.</string>
+    <string name="str_success_submit_appointment">نوبت با موفقیت ثبت شد.</string>
+    <string name="str_tracking_code">کد پیگیری:</string>
+    <string name="str_understand">متوجه شدم</string>
+    <string name="delete">حذف</string>
+</resources>
