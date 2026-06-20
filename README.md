@@ -53,8 +53,8 @@ The project is organized into multiple modules:
 
 | Home Screen | Doctor List |
 | :---: | :---: |
-| ![Home](docs/screenshots/home.png) | ![Doctor](docs/screenshots/doctor.png) |
+| ![Home](docs/screenshots/home.jpg) | ![Doctor](docs/screenshots/doctor.jpg) |
 
 | Appointment | Profile |
 | :---: | :---: |
-| ![Appointment](docs/screenshots/appointment.png) | ![Profile](docs/screenshots/profile.png) |
+| ![Appointment](docs/screenshots/appointment.jpg) | ![Profile](docs/screenshots/profile.jpg) |
