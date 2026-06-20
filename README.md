@@ -51,10 +51,15 @@ The project is organized into multiple modules:
 
 ## Screenshots
 
-| Home Screen | Doctor List |
+| Home Screen | Profile |
 | :---: | :---: |
-| ![Home](docs/screenshots/home.jpg) | ![Doctor](docs/screenshots/doctor.jpg) |
+| ![Home](docs/screenshots/home.jpg) | ![Doctor](docs/screenshots/profile.jpg) |
 
-| Appointment | Profile |
+| Specialty | Doctor List |
 | :---: | :---: |
-| ![Appointment](docs/screenshots/appointment.jpg) | ![Profile](docs/screenshots/profile.jpg) |
+| ![Appointment](docs/screenshots/specialty.jpg) | ![Profile](docs/screenshots/doctorList.jpg) |
+
+| Doctor | Recovery Appointment |
+| :---: | :---: |
+| ![Appointment](docs/screenshots/doctor.jpg) | ![Profile](docs/screenshots/recoveryAppointment.jpg) |
+
