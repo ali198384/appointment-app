@@ -17,7 +17,7 @@ import javax.inject.Inject
 class App : Application(), Configuration.Provider {
 
     @Inject lateinit var workerFactory: HiltWorkerFactory
-
+//vjvjjjvj
     override fun getWorkManagerConfiguration(): Configuration {
         return Configuration.Builder()
             .setWorkerFactory(workerFactory)
